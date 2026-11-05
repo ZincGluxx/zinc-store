@@ -1,2 +1,2 @@
-# cosmic-store
-WIP COSMIC Store
+# zinc-store
+WIP Zinc Store

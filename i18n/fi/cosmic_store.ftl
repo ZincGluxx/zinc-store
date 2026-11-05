@@ -1,4 +1,4 @@
-app-name = COSMICin sovelluskauppa
+app-name = Zincin sovelluskauppa
 back = Takaisin
 cancel = Peru
 check-for-updates = Tarkista päivitykset
@@ -89,7 +89,7 @@ cancelled = Peruttu
 addons = Lisäosat
 donation = Lahjoitus
 add = Lisää
-made-for-cosmic = Tehty COSMICille
+made-for-cosmic = Tehty Zincille
 homepage = Kotisivu
 no-custom-flatpak-sources = Ei mukautettuja Flatpak-lähteitä
 no-flatpak = Ei Flatpak-tukea
@@ -99,7 +99,7 @@ system-packages-summary =
        *[other] { $count } pakettia
     }
 system-packages = Järjestelmäpaketit
-comment = Sovelluskauppa COSMIC-työpöydälle
+comment = Sovelluskauppa Zinc-työpöydälle
 keywords = App;Software;Store;Shop;Sovellus;Appi;Ohjelma;Ohjelmisto;Kauppa;Sovelluskauppa;
 dismiss = Hylkää viesti
 place-and-refine = Sijoita ja hienosäädä
@@ -120,7 +120,7 @@ software-repositories = Asennuslähteet
 operations-running-finished = { $running } toimintoa meneillään ({ $percent } %), { $finished } valmiina…
 codec-error = Paketin asennuksen aikana tapahtui virheitä.
 manage-repositories = Hallinnoi asennuslähteitä
-enable-flathub-cosmic = Näet saatavilla olevat sovelmat, kun otat Flathubin ja COSMIC Flatpakin käyttöön.
+enable-flathub-cosmic = Näet saatavilla olevat sovelmat, kun otat Flathubin ja Zinc Flatpakin käyttöön.
 uninstall-app-flatpak-warning = Ohjelman { $name } asennuksen poistaminen säilyttää sen tiedostot ja tiedot.
 codec-header = ”{ $application }” vaatii lisäpaketteja, jotka tarjoavat: ”{ $description }”.
 codec-footer =

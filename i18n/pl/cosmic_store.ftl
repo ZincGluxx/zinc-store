@@ -1,5 +1,5 @@
-app-name = Sklep COSMIC
-comment = Sklep z aplikacjami dla środowiska COSMIC
+app-name = Sklep Zinc
+comment = Sklep z aplikacjami dla środowiska Zinc
 keywords = Aplikacje;Soft;Oprogramowanie;Sklep;Flatpak;Repozytorium;Dodaj;Usuń;Aktualizuj;Paczka;Program;Odinstaluj;Zainstaluj;
 back = Powrót
 cancel = Anuluj
@@ -69,12 +69,12 @@ updates = Aktualizacje
 
 ## Applets page
 
-enable-flathub-cosmic = Musisz włączyć Flathub oraz COSMIC Flatpak by widzieć dostępne aplety.
+enable-flathub-cosmic = Musisz włączyć Flathub oraz Zinc Flatpak by widzieć dostępne aplety.
 manage-repositories = Zarządzanie repozytoriami
 # Explore Pages
 editors-choice = Wybór redakcji
 popular-apps = Popularne aplikacje
-made-for-cosmic = Stworzone dla COSMIC
+made-for-cosmic = Stworzone dla Zinc
 new-apps = Nowe aplikacje
 recently-updated = Ostatnio zaktualizowane
 development-tools = Narzędzia programistyczne

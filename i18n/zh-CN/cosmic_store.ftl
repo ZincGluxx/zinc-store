@@ -1,4 +1,4 @@
-app-name = COSMIC 软件商店
+app-name = Zinc 软件商店
 back = 返回
 cancel = 取消
 check-for-updates = 检查更新
@@ -67,12 +67,12 @@ updates = 更新
 
 ## Applets page
 
-enable-flathub-cosmic = 请启用 Flathub 和 COSMIC Flatpak 远程仓库即可查看可用小部件。
+enable-flathub-cosmic = 请启用 Flathub 和 Zinc Flatpak 远程仓库即可查看可用小部件。
 manage-repositories = 管理远程仓库
 # Explore Pages
 editors-choice = 编辑推荐
 popular-apps = 热门应用
-made-for-cosmic = 为 COSMIC 设计
+made-for-cosmic = 为 Zinc 设计
 new-apps = 新应用程序
 recently-updated = 最近更新
 development-tools = 开发工具
@@ -152,7 +152,7 @@ system-packages-summary =
     }
 system-packages = 系统软件包
 flatpak-runtimes = Flatpak 运行时
-comment = COSMIC 桌面的软件商店
+comment = Zinc 桌面的软件商店
 keywords = 应用;软件包;程序;应用程序;软件;商店;商场;远程仓库;代码源;安装;卸载;添加;移除;更新;升级;Flatpak;
 loading = 正在加载…
 by-name = 以 { $name }

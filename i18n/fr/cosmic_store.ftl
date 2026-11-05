@@ -1,4 +1,4 @@
-app-name = Store COSMIC
+app-name = Store Zinc
 back = Retour
 cancel = Annuler
 check-for-updates = Rechercher des mises à jour
@@ -34,7 +34,7 @@ updates = Mises à jour
 # Explore Pages
 editors-choice = Choix de l'éditeur
 popular-apps = Applis populaires
-made-for-cosmic = Applis faites pour COSMIC
+made-for-cosmic = Applis faites pour Zinc
 new-apps = Nouvelles applis
 recently-updated = Récemment mis à jour
 development-tools = Outils de développement
@@ -122,7 +122,7 @@ repository-remove-body =
 dock = Dock
 version = Version { $version }
 removing = Suppression...
-enable-flathub-cosmic = Activez les dépôts Flathub et les Flatpak COSMIC pour voir les applets disponibles.
+enable-flathub-cosmic = Activez les dépôts Flathub et les Flatpak Zinc pour voir les applets disponibles.
 manage-repositories = Gérer les dépôts
 view-more = Voir plus
 import-flatpakrepo = Importer un fichier .flatpakrepo pour ajouter une source personnalisée
@@ -143,7 +143,7 @@ system-packages-summary =
     }
 system-packages = Paquets système
 flatpak-runtimes = Runtimes Flatpak
-comment = Store d'applications pour le bureau COSMIC
+comment = Store d'applications pour le bureau Zinc
 keywords = Appli;Paquet;Programme;Logiciel;Store;Magasin;Dépôt;Source;Installer;Désinstaller;Ajouter;Supprimer;Mettre à jour;Mise à jour;Flatpak;
 loading = Chargement...
 by-name = Par { $name }

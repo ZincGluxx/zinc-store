@@ -1,5 +1,5 @@
-app-name = COSMIC Store
-comment = App Store di COSMIC
+app-name = Zinc Store
+comment = App Store di Zinc
 keywords = Applicazioni;Software;Store;
 back = Indietro
 cancel = Annulla
@@ -69,12 +69,12 @@ updates = Aggiornamenti
 
 ## Applets page
 
-enable-flathub-cosmic = Abilita Flathub e COSMIC Flatpak per vedere le applet disponibili.
+enable-flathub-cosmic = Abilita Flathub e Zinc Flatpak per vedere le applet disponibili.
 manage-repositories = Gestisci repository
 # Explore Pages
 editors-choice = Scelta dell'editore
 popular-apps = Applicazioni più popolari
-made-for-cosmic = Fatto per COSMIC
+made-for-cosmic = Fatto per Zinc
 new-apps = Novità
 recently-updated = Aggiornate di recente
 development-tools = Strumenti di sviluppo

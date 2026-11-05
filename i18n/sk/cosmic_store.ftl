@@ -1,5 +1,5 @@
-app-name = Obchod COSMIC
-comment = Obchod s aplikáciami pre pracovné prostredie COSMIC
+app-name = Obchod Zinc
+comment = Obchod s aplikáciami pre pracovné prostredie Zinc
 keywords = Aplikácie;Softvér;Obchod;Shop;Programy;
 back = Späť
 cancel = Zrušiť
@@ -69,12 +69,12 @@ updates = Aktualizácie
 
 ## Applets page
 
-enable-flathub-cosmic = Povoliť Flathub a COSMIC Flatpak pre zobrazenie dostupných miniaplikácií.
+enable-flathub-cosmic = Povoliť Flathub a Zinc Flatpak pre zobrazenie dostupných miniaplikácií.
 manage-repositories = Spravovať repozitáre
 # Explore Pages
 editors-choice = Výber redaktora
 popular-apps = Populárne aplikácie
-made-for-cosmic = Vytvorené pre COSMIC
+made-for-cosmic = Vytvorené pre Zinc
 new-apps = Nové aplikácie
 recently-updated = Nedávno aktualizované
 development-tools = Vývojárske nástroje

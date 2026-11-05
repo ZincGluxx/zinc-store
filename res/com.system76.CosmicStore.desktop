@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=COSMIC Store
-Comment=Application store for the COSMIC desktop
+Name=Zinc Store
+Comment=Application store for the Zinc desktop
 Exec=cosmic-store %u
 Terminal=false
 Type=Application

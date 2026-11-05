@@ -1,4 +1,4 @@
-app-name = COSMIC Store
+app-name = Zinc Store
 back = Tilbage
 cancel = Afbryd
 check-for-updates = Søg efter opdateringer
@@ -35,7 +35,7 @@ updates = Opdateringer
 # Explore Pages
 editors-choice = Redaktionens udvalgte
 popular-apps = Populære programmer
-made-for-cosmic = Lavet til COSMIC
+made-for-cosmic = Lavet til Zinc
 new-apps = Nye apps
 recently-updated = Nyligt opdateret
 development-tools = Udviklerværktøjer
@@ -92,5 +92,5 @@ theme = Tema
 match-desktop = Følg skrivebordets indstillinger
 dark = Mørkt
 light = Lyst
-comment = Softwarecenter til COSMIC-skrivebordet
+comment = Softwarecenter til Zinc-skrivebordet
 remove = Fjern

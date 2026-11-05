@@ -1,5 +1,5 @@
-app-name = COSMIC Áruház
-comment = Alkalmazásáruház a COSMIC asztali környezethez
+app-name = Zinc Áruház
+comment = Alkalmazásáruház a Zinc asztali környezethez
 keywords = applikációk;bolt;szoftver;tároló;források;telepítés;eltávolítás;hozzáadás;frissítés;csomagkezelő;alkalmazások;programok;Flatpak;
 back = Vissza
 cancel = Mégse
@@ -69,12 +69,12 @@ updates = Frissítések
 
 ## Applets page
 
-enable-flathub-cosmic = Engedélyezd a Flathubot és a COSMIC Flatpakot, hogy lásd az elérhető kisalkalmazásokat.
+enable-flathub-cosmic = Engedélyezd a Flathubot és a Zinc Flatpakot, hogy lásd az elérhető kisalkalmazásokat.
 manage-repositories = Tárolók kezelése
 # Explore Pages
 editors-choice = A szerkesztő választása
 popular-apps = Népszerű alkalmazások
-made-for-cosmic = COSMIC-ra tervezve
+made-for-cosmic = Zinc-ra tervezve
 new-apps = Új alkalmazások
 recently-updated = Nemrég frissített
 development-tools = Fejlesztői eszközök

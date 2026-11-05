@@ -79,12 +79,12 @@ manage-repositories = ਰਿਪੋਜ਼ਟਰੀਆਂ ਦਾ ਇੰਤਜ਼ਾਮ
 addons = ਐਡ-ਆਨ
 develop = ਡਿਵੈਲਪ
 development-tools = ਡਿਵੈਲਪਮੈਂਟ ਟੂਲ
-app-name = COSMIC ਸਟੋਰ
+app-name = Zinc ਸਟੋਰ
 donation = ਦਾਨ
 install = ਇੰਸਟਾਲ
 popular-apps = ਹਰਮਨਪਿਆਰੀਆਂ ਐਪਾ
 social-networking-apps = ਸ਼ੋਸ਼ਲ ਨੈੱਟਵਰਕਿੰਗ ਐਪਾਂ
-made-for-cosmic = COSMIC ਲਈ ਤਿਆਰ
+made-for-cosmic = Zinc ਲਈ ਤਿਆਰ
 homepage = ਮੁੱਖ-ਸਫ਼ਾ
 system-package-updates = ਪੈਕੇਜ ਅੱਪਡੇਟ
 system-packages-summary =
@@ -93,7 +93,7 @@ system-packages-summary =
        *[other] { $count } ਪੈਕੇਜ
     }
 system-packages = ਸਿਸਟਮ ਪੈਕੇਜ
-comment = COSMIC ਡੈਸਕਟਾਪ ਲਈ ਐਪਲੀਕੇਸ਼ਨ ਸਟੋਰ
+comment = Zinc ਡੈਸਕਟਾਪ ਲਈ ਐਪਲੀਕੇਸ਼ਨ ਸਟੋਰ
 keywords = ਐਪ;ਸਾਫਟਵੇਅਰ;ਸਟੋਰ;ਦੁਕਾਨ;
 faq = ਸਵਾਲ-ਜਵਾਬ
 flatpak-runtimes = ਫਲੈਟਪੈਕ ਰਨਟਾਈਮ

@@ -8,7 +8,7 @@ cancel = Avbryt
 check-for-updates = Søk etter oppdateringer
 checking-for-updates = Søker etter oppdateringer…
 close = Lukk
-app-name = COSMIC Butikk
+app-name = Zinc Butikk
 install = Installer
 no-installed-applications = Ingen installerte programmer.
 no-updates = Alle installerte program er oppdaterte.
@@ -74,7 +74,7 @@ operations = Operasjoner
 pending = Venter
 failed = Mislykkede
 complete = Ferdige
-made-for-cosmic = Lagd for COSMIC
+made-for-cosmic = Lagd for Zinc
 new-apps = Nye apper
 recently-updated = Nylig oppdatert
 development-tools = Utviklerverktøy
@@ -93,7 +93,7 @@ repository-remove-body =
         [none] slette
        *[other] fjerne "{ $dependency }" og slette
     } følgende applikasjoner and objekter. De må bli ominstallert om arkivet legges til igjen.
-enable-flathub-cosmic = Slå på Flathub og COSMIC Flatpak for å se tilgjengelige appleter.
+enable-flathub-cosmic = Slå på Flathub og Zinc Flatpak for å se tilgjengelige appleter.
 manage-repositories = Håndter app-arkiv
 social-networking-apps = Sosiale Nettverksapper
 apps-for-learning = Læringsapper

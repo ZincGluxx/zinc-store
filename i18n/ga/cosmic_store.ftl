@@ -1,4 +1,4 @@
-app-name = Stóras COSMIC
+app-name = Stóras Zinc
 back = Ar ais
 cancel = Cealaigh
 check-for-updates = Seiceáil do nuashonruithe
@@ -35,7 +35,7 @@ updates = Nuashonruithe
 # Explore Pages
 editors-choice = Rogha an eagarthóra
 popular-apps = Aipeanna coitianta
-made-for-cosmic = Déanta do COSMIC
+made-for-cosmic = Déanta do Zinc
 new-apps = Aipeanna nua
 recently-updated = Nuashonraithe le déanaí
 development-tools = Uirlisí forbartha
@@ -121,7 +121,7 @@ adding = Ag cur leis...
 remove = Bain
 removing = Ag baint...
 applets = Feidhmchláiríní
-enable-flathub-cosmic = Cumasaigh Flathub agus COSMIC Flatpak le go bhfeicfidh tú na feidhmchláiríní atá ar fáil.
+enable-flathub-cosmic = Cumasaigh Flathub agus Zinc Flatpak le go bhfeicfidh tú na feidhmchláiríní atá ar fáil.
 manage-repositories = Bainistigh stórtha
 recommended-flatpak-sources = Foinsí Flatpak molta
 custom-flatpak-sources = Foinsí Flatpak saincheaptha
@@ -143,7 +143,7 @@ system-packages-summary =
         [one] { $count } pacáiste
        *[other] { $count } pacáistí
     }
-comment = Siopa feidhmchlár don deasc COSMIC
+comment = Siopa feidhmchlár don deasc Zinc
 keywords = Aip;Pacáiste;Clár;Bogearraí;Siopa;Stór;Foinse;Suiteáil;Díshuiteáil;Cuir leis;Bain;Nuashonraigh;Uasghrádaigh;Flatpak;Store;
 loading = Ag lódáil...
 by-name = Le { $name }

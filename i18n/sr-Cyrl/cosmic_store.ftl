@@ -1,4 +1,4 @@
-app-name = COSMIC Продавница
+app-name = Zinc Продавница
 back = Назад
 cancel = Прекини
 check-for-updates = Проверите ажурирања
@@ -30,7 +30,7 @@ updates = Ажурирања
 # Explore Pages
 editors-choice = Избор уредника
 popular-apps = Популарне апликације
-made-for-cosmic = Направљено за COSMIC
+made-for-cosmic = Направљено за Zinc
 new-apps = Нове апликације
 recently-updated = Недавно ажурирано
 development-tools = Развојни алати

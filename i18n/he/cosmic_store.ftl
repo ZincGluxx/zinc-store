@@ -1,4 +1,4 @@
-app-name = חנות COSMIC
+app-name = חנות Zinc
 back = חזרה
 cancel = ביטול
 check-for-updates = איתור עדכונים
@@ -30,7 +30,7 @@ updates = עדכונים
 # Explore Pages
 editors-choice = בחירת העורכים
 popular-apps = יישומים נפוצים
-made-for-cosmic = נוצר עבור COSMIC
+made-for-cosmic = נוצר עבור Zinc
 new-apps = יישומים חדשים
 recently-updated = עודכנו לאחרונה
 development-tools = כלי פיתוח

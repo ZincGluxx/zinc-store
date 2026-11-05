@@ -1,4 +1,4 @@
-app-name = Magazin COSMIC
+app-name = Magazin Zinc
 back = Înapoi
 cancel = Anulează
 check-for-updates = Verifică actualizările
@@ -35,7 +35,7 @@ updates = Actualizări
 # Explore Pages
 editors-choice = Alegerea editorilor
 popular-apps = Aplicații populare
-made-for-cosmic = Create pentru COSMIC
+made-for-cosmic = Create pentru Zinc
 new-apps = Aplicații noi
 recently-updated = Actualizate recent
 development-tools = Unelte pentru dezvoltare

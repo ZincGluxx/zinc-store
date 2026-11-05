@@ -68,8 +68,8 @@ light = Светлая
 close = Закрыть
 notification-in-progress = Выполняются установка и обновление.
 applets = Апплеты
-made-for-cosmic = Специально для COSMIC
-enable-flathub-cosmic = Включите Flathub и COSMIC Flatpak для просмотра списка апплетов.
+made-for-cosmic = Специально для Zinc
+enable-flathub-cosmic = Включите Flathub и Zinc Flatpak для просмотра списка апплетов.
 manage-repositories = Управление репозиториями
 licenses = Лицензии
 proprietary = Проприетарная
@@ -138,6 +138,6 @@ system-packages-summary =
         [few] { $count } пакета
        *[other] { $count } пакетов
     }
-comment = Магазин приложений для среды COSMIC
+comment = Магазин приложений для среды Zinc
 loading = Загрузка...
 by-name = От: { $name }

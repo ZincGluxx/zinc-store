@@ -1,5 +1,5 @@
-app-name = COSMIC Store
-comment = Application store for the COSMIC desktop
+app-name = Zinc Store
+comment = Application store for the Zinc desktop
 keywords = App;Package;Program;Software;Store;Shop;Repository;Source;Install;Uninstall;Add;Remove;Update;Upgrade;Flatpak;
 back = Back
 by-name = By {$name}
@@ -77,13 +77,13 @@ installed-apps = Installed apps
 updates = Updates
 
 ## Applets page
-enable-flathub-cosmic = Please enable Flathub and COSMIC Flatpak to see available applets.
+enable-flathub-cosmic = Please enable Flathub and Zinc Flatpak to see available applets.
 manage-repositories = Manage repositories
 
 # Explore Pages
 editors-choice = Editor's choice
 popular-apps = Popular apps
-made-for-cosmic = Made for COSMIC
+made-for-cosmic = Made for Zinc
 new-apps = New apps
 recently-updated = Recently updated
 development-tools = Development tools

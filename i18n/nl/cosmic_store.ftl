@@ -1,4 +1,4 @@
-app-name = COSMIC Store
+app-name = Zinc Store
 back = Terug
 cancel = Annuleren
 install = Installeren
@@ -35,7 +35,7 @@ updates = Updates
 # Explore Pages
 editors-choice = Keuze van de redactie
 popular-apps = Populaire apps
-made-for-cosmic = Speciaal gemaakt voor COSMIC
+made-for-cosmic = Speciaal gemaakt voor Zinc
 new-apps = Nieuwe apps
 recently-updated = Onlangs bijgewerkt
 development-tools = Programmeren en ontwikkelen
@@ -134,7 +134,7 @@ recommended-flatpak-sources = Aanbevolen Flatpak-bronnen
 software-repositories = Softwarebronnen
 manage-repositories = Softwarebronnen beheren
 no-custom-flatpak-sources = Geen persoonlijke Flatpak-bronnen
-enable-flathub-cosmic = Gelieve activeert u Flathub en COSMIC Flatpak om beschikbare applets te zien.
+enable-flathub-cosmic = Gelieve activeert u Flathub en Zinc Flatpak om beschikbare applets te zien.
 no-flatpak = Geen Flatpak-ondersteuning
 system-package-updates = Updates
 system-packages-summary =
@@ -143,6 +143,6 @@ system-packages-summary =
        *[other] { $count } Pakketten
     }
 flatpak-runtimes = Flatpak runtime-omgevingen
-comment = Appstore voor COSMIC
+comment = Appstore voor Zinc
 keywords = Toepassing;App;Software;Store;Winkel;Appstore;
 loading = Aan het laden…

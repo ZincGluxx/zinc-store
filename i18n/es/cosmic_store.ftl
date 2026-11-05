@@ -1,5 +1,5 @@
-app-name = Tienda COSMIC
-comment = Tienda de aplicaciones para el escritorio COSMIC
+app-name = Tienda Zinc
+comment = Tienda de aplicaciones para el escritorio Zinc
 keywords = Aplicaciones;Software;Tienda;Store;
 back = Atrás
 cancel = Cancelar
@@ -68,12 +68,12 @@ updates = Actualizaciones
 
 ## Applets page
 
-enable-flathub-cosmic = Por favor, habilite Flathub y COSMIC Flatpak para ver los subprogramas disponibles.
+enable-flathub-cosmic = Por favor, habilite Flathub y Zinc Flatpak para ver los subprogramas disponibles.
 manage-repositories = Gestionar repositorios
 # Explore Pages
 editors-choice = Selección del editor
 popular-apps = Aplicaciones populares
-made-for-cosmic = Hechas para COSMIC
+made-for-cosmic = Hechas para Zinc
 new-apps = Aplicaciones recientes
 recently-updated = Recién actualizadas
 development-tools = Herramientas de desarrollo

@@ -1,5 +1,5 @@
-app-name = متجر COSMIC
-comment = متجر تطبيقات لسطح مكتب COSMIC
+app-name = متجر Zinc
+comment = متجر تطبيقات لسطح مكتب Zinc
 keywords = متجر;تطبيق;تطبيقات;برامج;
 back = ارجع
 cancel = ألغِ
@@ -69,12 +69,12 @@ updates = التحديثات
 
 ## Applets page
 
-enable-flathub-cosmic = يرجى تفعيل Flathub و COSMIC Flatpak لرؤية البريمجات المتاحة.
+enable-flathub-cosmic = يرجى تفعيل Flathub و Zinc Flatpak لرؤية البريمجات المتاحة.
 manage-repositories = أدِر المستودعات
 # Explore Pages
 editors-choice = اختيار المحرِر
 popular-apps = التطبيقات الشائعة
-made-for-cosmic = صنع من أجل COSMIC
+made-for-cosmic = صنع من أجل Zinc
 new-apps = التطبيقات الجديدة
 recently-updated = المحدثة حديثًا
 development-tools = أدوات التطوير

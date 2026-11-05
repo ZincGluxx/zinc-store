@@ -1,5 +1,5 @@
 app-name = Loja de Aplicativos
-comment = Loja de aplicativos do ambiente COSMIC
+comment = Loja de aplicativos do ambiente Zinc
 back = Voltar
 cancel = Cancelar
 check-for-updates = Verificar por atualizações
@@ -68,12 +68,12 @@ updates = Atualizações
 
 ## Applets page
 
-enable-flathub-cosmic = Por favor, habilite o Flathub e o COSMIC Flatpak para ver os miniaplicativos disponíveis.
+enable-flathub-cosmic = Por favor, habilite o Flathub e o Zinc Flatpak para ver os miniaplicativos disponíveis.
 manage-repositories = Gerenciar repositórios
 # Explore Pages
 editors-choice = Escolha dos editores
 popular-apps = Aplicativos populares
-made-for-cosmic = Feitos para o COSMIC
+made-for-cosmic = Feitos para o Zinc
 new-apps = Novos aplicativos
 recently-updated = Atualizados recentemente
 development-tools = Ferramentas de desenvolvimento

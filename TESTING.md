@@ -1,6 +1,6 @@
 # Testing
 
-This document provides a regression testing checklist for the COSMIC Store. The checklist provides a starting point for Quality Assurance reviews.
+This document provides a regression testing checklist for the Zinc Store. The checklist provides a starting point for Quality Assurance reviews.
 
 ## Checklist
 
